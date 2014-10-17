@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[quk:home|Door43 (quk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-quk|d43-quk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-quk/archive/master.zip|d43-quk.zip]]
+
+**Recent Changes**
+{{changes>ns = quk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/quk|Ethnologue data]]
+
